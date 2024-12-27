@@ -1,28 +1,65 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
-<h1 align="center">Hi 👋, I'm Panagiotis Karvounaris</h1>
-<h3 align="center">Electrical and Computer Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+# 💻 Welcome to My GitHub Profile!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karvounaris&label=Profile%20views&color=0e75b6&style=flat" alt="karvounaris" /> </p>
+## 👋 About Me
 
-- 🔭 I’m currently working on **Automation and Control**
+Hello there! I'm an Electrical and Computer Engineering student in my final year, about to graduate with an integrated master’s degree from the School of Engineering. My academic journey has been an exciting exploration of the cutting-edge fields of **autonomous systems** and **robotics**, where technology meets creativity and innovation.
 
-- 🌱 I’m currently learning **Robot Operating System**
+🚀 I’m passionate about building smart systems that solve real-world problems, and I’ve dedicated my studies to understanding how machines perceive, decide, and act. 
 
-- 📫 How to reach me **karvounarispanagiotis@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/panagiotis karvounaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panagiotis karvounaris" height="30" width="40" /></a>
-<a href="https://instagram.com/panagiotis_karvounaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panagiotis_karvounaris" height="30" width="40" /></a>
-</p>
+## 🎓 Academic Achievements
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **Integrated Master’s in Electrical and Computer Engineering** (Graduation: Upcoming Months)
+- **Thesis Focus**: Autonomous systems and robotics 
+- **Projects**: Over the years, I’ve worked on numerous engineering projects, including:  
+  - Implementing control algorithms for intelligent devices 
+  - Design controller for robotic arms
+  - Training and testing neural network models
+  - Designing simple versions of different Reinforcement Learning (RL) agents for learning purposes
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karvounaris&show_icons=true&locale=en&layout=compact" alt="karvounaris" /></p>
+I’ll be uploading my projects to this GitHub repository, so stay tuned for exciting updates!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karvounaris&show_icons=true&locale=en" alt="karvounaris" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karvounaris&" alt="karvounaris" /></p>
+## 🤖 Interests
 
+- **Autonomous Systems**: Creating smart machines that navigate and interact with the world.
+- **Robotics**: Designing systems that mimic and enhance human capabilities.
+- **Machine Learning**: Training intelligent systems to recognize patterns and make decisions, focusing on neural networks.
+- **Embedded Systems**: Building efficient and reliable hardware-software solutions, in robotics specific applications. 
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Tools and Frameworks:
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Additional Skills:
+- Control Systems
+- Software Developing
+- System Simulation and Modeling
+- On site testing of control algorithms
+
+---
+
+## 🎨 Hobbies
+
+- **📷 Photography**: Capturing the beauty of the world through a lens.
+- **📖 Reading**: Exploring science fiction and tech journals.
+- **🏞️ Hiking**: Recharging in the great outdoors.
+
+---
+
+### 🌟 Let’s Connect
+Feel free to explore my repositories and reach out if you’d like to collaborate on a project or just have a tech chat!
+
+Thanks for visiting my profile! 😊
