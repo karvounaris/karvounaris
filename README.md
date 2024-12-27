@@ -42,20 +42,22 @@ I’ll be uploading my projects to this GitHub repository, so stay tuned for exc
 ![ROS](https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Additional Skills:
 - Control Systems
-- Software Developing
 - System Simulation and Modeling
 - On site testing of control algorithms
+- Software Developing
+- Training and testing machine learning algorithms
 
 ---
 
 ## 🎨 Hobbies
 
-- **📷 Photography**: Capturing the beauty of the world through a lens.
-- **📖 Reading**: Exploring science fiction and tech journals.
-- **🏞️ Hiking**: Recharging in the great outdoors.
+- **✈️ Traveling**: Exploring new places and cultures.
+- **💡 Learning About New Technologies**: Staying updated with the latest innovations.
+- **📚 Personal Development and Financial Literacy**: Enhancing life skills and knowledge.
 
 ---
 
