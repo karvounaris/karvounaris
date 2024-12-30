@@ -37,6 +37,7 @@ I’ll be uploading my projects to this GitHub repository, so stay tuned for exc
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools and Frameworks:
 ![ROS](https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
@@ -58,6 +59,12 @@ I’ll be uploading my projects to this GitHub repository, so stay tuned for exc
 - **✈️ Traveling**: Exploring new places and cultures.
 - **💡 Learning About New Technologies**: Staying updated with the latest innovations.
 - **📚 Personal Development and Financial Literacy**: Enhancing life skills and knowledge.
+
+---
+
+## 📬 Contact Information
+- **Email**: karvounarispanagiotis@gmail.com
+- **LinkedIn**: [click here]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/panagiotis-karvounaris-2995b125a/))
 
 ---
 
