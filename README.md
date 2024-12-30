@@ -64,7 +64,7 @@ I’ll be uploading my projects to this GitHub repository, so stay tuned for exc
 
 ## 📬 Contact Information
 - **Email**: karvounarispanagiotis@gmail.com
-- **LinkedIn**: [click here]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/panagiotis-karvounaris-2995b125a/))
+- **LinkedIn**: [click here](https://www.linkedin.com/in/panagiotis-karvounaris-2995b125a/)
 
 ---
 
