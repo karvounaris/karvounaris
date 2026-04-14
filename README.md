@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hello there! I'm an Electrical and Computer Engineering student in my final year, about to graduate with an integrated master’s degree from the School of Engineering. My academic journey has been an exciting exploration of the cutting-edge fields of **autonomous systems** and **robotics**, where technology meets creativity and innovation.
+Hello there! I'm an Electrical and Computer Engineering with an integrated master’s degree from the School of Engineering of Aristotle University of Thessaloniki. My academic journey has been an exciting exploration of the cutting-edge fields of **autonomous systems**, **robotics** and **deep learning**, where technology meets creativity and innovation.
 
 🚀 I’m passionate about building smart systems that solve real-world problems, and I’ve dedicated my studies to understanding how machines perceive, decide, and act. 
 
@@ -10,15 +10,12 @@ Hello there! I'm an Electrical and Computer Engineering student in my final year
 
 ## 🎓 Academic Achievements
 
-- **Integrated Master’s in Electrical and Computer Engineering** (Graduation: Upcoming Months)
-- **Thesis Focus**: Autonomous systems and robotics 
+- **Integrated Master’s in Electrical and Computer Engineering**
 - **Projects**: Over the years, I’ve worked on numerous engineering projects, including:  
   - Implementing control algorithms for intelligent devices 
   - Design controller for robotic arms
   - Training and testing neural network models
   - Designing simple versions of different Reinforcement Learning (RL) agents for learning purposes
-
-I’ll be uploading my projects to this GitHub repository, so stay tuned for exciting updates!
 
 ---
 
@@ -48,17 +45,8 @@ I’ll be uploading my projects to this GitHub repository, so stay tuned for exc
 ### Additional Skills:
 - Control Systems
 - System Simulation and Modeling
-- On site testing of control algorithms
 - Software Developing
 - Training and testing machine learning algorithms
-
----
-
-## 🎨 Hobbies
-
-- **✈️ Traveling**: Exploring new places and cultures.
-- **💡 Learning About New Technologies**: Staying updated with the latest innovations.
-- **📚 Personal Development and Financial Literacy**: Enhancing life skills and knowledge.
 
 ---
 
