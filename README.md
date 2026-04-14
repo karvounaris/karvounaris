@@ -24,7 +24,6 @@ Hello there! I'm an Electrical and Computer Engineering with an integrated maste
 - **Autonomous Systems**: Creating smart machines that navigate and interact with the world.
 - **Robotics**: Designing systems that mimic and enhance human capabilities.
 - **Machine Learning**: Training intelligent systems to recognize patterns and make decisions, focusing on neural networks.
-- **Embedded Systems**: Building efficient and reliable hardware-software solutions, in robotics specific applications. 
 
 ---
 
