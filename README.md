@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hello there! I'm an Electrical and Computer Engineering with an integrated master’s degree from the School of Engineering of Aristotle University of Thessaloniki. My academic journey has been an exciting exploration of the cutting-edge fields of **autonomous systems**, **robotics** and **deep learning**, where technology meets creativity and innovation.
+Hello there! I'm an Electrical and Computer Engineering with an integrated master’s degree from the School of Engineering of Aristotle University of Thessaloniki. My academic journey has been an exciting exploration of the cutting-edge fields of **control systems**, **robotics** and **deep learning**, where technology meets creativity and innovation.
 
 🚀 I’m passionate about building smart systems that solve real-world problems, and I’ve dedicated my studies to understanding how machines perceive, decide, and act. 
 
