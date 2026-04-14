@@ -8,7 +8,7 @@ Hello there! I'm an Electrical and Computer Engineering with an integrated maste
 
 ---
 
-## 🎓 Academic Achievements
+## 🎓 Academia
 
 - **Integrated Master’s in Electrical and Computer Engineering**
 - **Projects**: Over the years, I’ve worked on numerous engineering projects, including:  
